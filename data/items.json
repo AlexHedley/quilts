@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Four Clowns",
+            "date": "1985-01-01",
+            "for": "William (Snr)",
+            "description": "",
+            "images":
+                {
+                    "front": "images/FourClowns.jpg",
+                    "back": "images/FourClowns_Back.jpg"
+                }
+        }
+    ]
+}

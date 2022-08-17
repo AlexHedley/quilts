@@ -1,11 +1,11 @@
-# GAMENAME
+# Quilts
 
-![](images/GAMENAME.jpeg "")
+<!-- ![Quilts](images/Quilts.jpeg "Quilts") -->
 
 ## Site
 
 - [local](http://localhost:8000/)
-- [Published](https://alexhedley.github.io/REPONAME)
+- [Published](https://alexhedley.github.io/quilts)
 
 ## Run
 
