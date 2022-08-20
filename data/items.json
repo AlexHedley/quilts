@@ -26,6 +26,19 @@
         },
         {
             "id": 3,
+            "name": "Jonathan's Jaunty Penguin Parade",
+            "message": "Made with love for Jonathan Hedley, Christmas 1993\nLots of love from Aunty Gail, Aunty Linda and Stevie xxxx",
+            "date": "1993-12-25",
+            "for": "Jonathan",
+            "description": "",
+            "images":
+                {
+                    "front": "images/JonathansJauntyPenguinParade_J.jpg",
+                    "back": "images/JonathansJauntyPenguinParade_J_Back.jpg"
+                }
+        },
+        {
+            "id": 4,
             "name": "Definitely NOT The Millenium Quilt 'Red'",
             "message": "Made for the 13th Birthday of Jonathan Hedley 8th December 1999",
             "date": "1999-12-08",
