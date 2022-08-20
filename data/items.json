@@ -38,6 +38,18 @@
         },
         {
             "id": 0,
+            "name": "Bears",
+            "date": "1989-12-08",
+            "for": "Alexander",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Bears_A.jpg",
+                    "back": "images/Bears_A_Back.jpg"
+                }
+        },
+        {
+            "id": 0,
             "name": "Jonathan's Jaunty Penguin Parade",
             "message": "Made with love for Jonathan Hedley, Christmas 1993\nLots of love from Aunty Gail, Aunty Linda and Stevie xxxx",
             "date": "1993-12-25",
