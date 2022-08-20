@@ -190,6 +190,17 @@
                     "front": "images/Eric_J.jpg",
                     "back": "images/Eric_J_Back.jpg"
                 }
+        },
+        {
+            "id": 0,
+            "name": "Stargate SG·1",
+            "date": "",
+            "for": "Alexander",
+            "description": "(Can't remember the year)",
+            "images":
+                {
+                    "front": "images/StargateSG1.jpg"
+                }
         }
     ]
 }
