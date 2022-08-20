@@ -13,7 +13,6 @@ myApp.controller('myController', function ($scope, $http, $q, $filter) {
         $http.get(file)
             .then(function(response) {
                 $scope.items = response.data.items;
-                $scope.generatePivot();
             });
     };
 
