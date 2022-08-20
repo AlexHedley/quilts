@@ -76,6 +76,19 @@
         },
         {
             "id": 0,
+            "name": "Teddy Hide and Seek",
+            "message": "Made for Alexander Hedley at Christmas 1994\nDesigned by Gail Brady, Alexander & Jonathan.\nGiven with lots of love from\nAuntie Gail, Auntie Linda & Stevie",
+            "date": "1994-12-25",
+            "for": "Alexander",
+            "description": "(I think the teddies won the game...)",
+            "images":
+                {
+                    "front": "images/TeddyHideandSeek.jpg",
+                    "back": "images/TeddyHideandSeek_Back.jpg"
+                }
+        },
+        {
+            "id": 0,
             "name": "Woodpeckers & Windmills",
             "message": "Made for Jonathan Hedley, Christmas 1999\nWith love from Aunty Gail, Aunty Linda & Stevie xxxxx",
             "date": "1996-12-25",
