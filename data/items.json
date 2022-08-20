@@ -62,6 +62,19 @@
                     "front": "images/DefinitelyNotTheMilleniumQuiltRed_J.jpg",
                     "back": "images/DefinitelyNotTheMilleniumQuiltRed_J_Back.jpg"
                 }
+        },
+        {
+            "id": 6,
+            "name": "Eric",
+            "message": "well Stevie and Lin thought it was a good name for a quilt!\nMade for Jonathan Hedley\nChristmas 2001\nWith lots of love from Aunty Gail, Auntie Lin and Stevie xxxxx",
+            "date": "2001-12-25",
+            "for": "Jonathan",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Eric_J.jpg",
+                    "back": "images/Eric_J_Back.jpg"
+                }
         }
     ]
 }
