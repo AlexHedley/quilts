@@ -11,6 +11,18 @@
                     "front": "images/FourClowns.jpg",
                     "back": "images/FourClowns_Back.jpg"
                 }
+        },
+        {
+            "id": 2,
+            "name": "Baptism",
+            "date": "1987-04-12",
+            "for": "Jonathan",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Baptism_J.jpg",
+                    "back": "images/Baptism_J_Back.jpg"
+                }
         }
     ]
 }
