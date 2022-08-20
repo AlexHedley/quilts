@@ -123,11 +123,18 @@
                     >
                         <div class="card" style="width: 18rem;">
                             <img ng-if="item.image.length > 0" ng-src="/quilts/{{item.images.front}}" class="card-img-top" alt="{{item.name}}">
+                            <div class="card-header">
+                                {{item.name}}
+                            </div>
                             <div class="card-body">
-                                <h5 class="card-title">{{item.name}}</h5>
+                                <!-- <h5 class="card-title">{{item.name}}</h5> -->
+                                <p class="card-text">{{item.message}}</p>
                                 <p class="card-text">{{item.description}}</p>
-                                <p class="card-text">{{item.date | date:'d MMM yyyy'}}</p>
+                                <!-- <p class="card-text">{{item.date | date:'d MMM yyyy'}}</p> -->
                                 <p class="card-text">{{item.for}}</p>
+                            </div>
+                            <div class="card-footer text-muted">
+                                {{item.date | date:'d MMM yyyy'}}
                             </div>
                         </div>
                     </div>
