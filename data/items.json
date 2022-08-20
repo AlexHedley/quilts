@@ -50,6 +50,19 @@
         },
         {
             "id": 0,
+            "name": "DINO-MITES",
+            "message": "Made for\nAlexander T. Hedley\nChristmas 1992\nWith much love from\nAunty Gail, Aunty Lin and Stevie\nXXXXXXXX",
+            "date": "1992-12-25",
+            "for": "Alexander",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Dino-Mites_A.jpg",
+                    "back": "images/Dino-Mites_A_Back.jpg"
+                }
+        },
+        {
+            "id": 0,
             "name": "Alexander's Amazing Crazy Clowns",
             "message": "Made with love for Alexander Hedley, Christmas 1993\nLots of love from Aunty Gail, Aunty Linda and Stevie xxxx",
             "date": "1993-12-25",
