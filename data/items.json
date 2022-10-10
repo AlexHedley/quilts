@@ -50,6 +50,19 @@
         },
         {
             "id": 0,
+            "name": "Dinosaurs",
+            "message": "Made for William John Philip Hedley on his 8th\nChristmas 1991 With\nlove from Auntie Gail,\n Auntie Linda and Stevie.",
+            "date": "1991-12-25",
+            "for": "William",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Dinosaurs_W.jpeg",
+                    "back": "images/Dinosaurs_W_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
             "name": "DINO-MITES",
             "message": "Made for\nAlexander T. Hedley\nChristmas 1992\nWith much love from\nAunty Gail, Aunty Lin and Stevie\nXXXXXXXX",
             "date": "1992-12-25",
@@ -59,6 +72,19 @@
                 {
                     "front": "images/Dino-Mites_A.jpg",
                     "back": "images/Dino-Mites_A_Back.jpg"
+                }
+        },
+        {
+            "id": 0,
+            "name": "DINO-MITES",
+            "message": "Made for\nJonathan S. Hedley\nChristmas 1992\nWith much love from\nAunty Gail, Aunty Lin and Stevie\nXXXXXXXX",
+            "date": "1992-12-25",
+            "for": "Jonathan",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Dino-Mites_J.jpeg",
+                    "back": "images/Dino-Mites_J_Back.jpeg"
                 }
         },
         {
@@ -180,6 +206,19 @@
         },
         {
             "id": 0,
+            "name": "Theres A Moose Loose Aboot This Hoose",
+            "message": "Made to celebrate the 14th\nBirthday of Jonathan Hedley\n8th December 2000.\nMade and given with much love\nfrom Auntie Gail, Auntie Lin and Stevie.\nxxx",
+            "date": "2000-12-08",
+            "for": "Alexander",
+            "description": "",
+            "images":
+                {
+                    "front": "images/TheresAMooseLooseAbootThisHoose_J.jpeg",
+                    "back": "images/TheresAMooseLooseAbootThisHoose_J_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
             "name": "Eric",
             "message": "well Stevie and Lin thought it was a good name for a quilt!\nMade for Jonathan Hedley\nChristmas 2001\nWith lots of love from Aunty Gail, Auntie Lin and Stevie xxxxx",
             "date": "2001-12-25",
@@ -189,6 +228,58 @@
                 {
                     "front": "images/Eric_J.jpg",
                     "back": "images/Eric_J_Back.jpg"
+                }
+        },
+        {
+            "id": 0,
+            "name": "Mairi",
+            "message": "Made to celebrate the safe arrival of Mairi Simone Hedley Addison\nborn the 27th October 2011 at 5.49pm\nweighing 7lbs. 4oz.\nmade and given with love from Gail Linda\nand Stevie xxxxxx",
+            "date": "2011-10-27",
+            "for": "Mairi",
+            "description": "",
+            "images":
+                {
+                    "front": "images/Mairi_M.jpeg",
+                    "back": "images/Mairi_M_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
+            "name": "Mairi Mairi Not At All Contrary",
+            "message": "Made to celebrate the first birthday\nof\nMairi Simone Hedley Addison\n27.10.2012\nGiven with love from Gail Linda and\nStevie\nxxx",
+            "date": "2012-10-27",
+            "for": "Mairi",
+            "description": "",
+            "images":
+                {
+                    "front": "images/MairiMairiNotAtAllContrary_M.jpeg",
+                    "back": "images/MairiMairiNotAtAllContrary_M_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
+            "name": "The Very Hungry Caterpillar",
+            "message": "For Mairi\nChristmas 2012\nMade &amp; Given with Love from\nGail Lin &amp; Stevie.\nxx",
+            "date": "2012-12-25",
+            "for": "Mairi",
+            "description": "",
+            "images":
+                {
+                    "front": "images/TheVeryHungryCaterpillar_M.jpeg",
+                    "back": "images/TheVeryHungryCaterpillar_M_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
+            "name": "Family Armada",
+            "message": "Made to celebrate the safe arrival of William James Hedley Addison\non the 28th of June 2014 at 2.08pm\nBorn into a sea of love\nThis quilt is made &amp; given with much love from\n Gail Linda &amp; Stevie\nxxxxx",
+            "date": "2014-06-28",
+            "for": "William",
+            "description": "",
+            "images":
+                {
+                    "front": "images/FamilyArmada_W.jpeg",
+                    "back": "images/FamilyArmada_W_Back.jpeg"
                 }
         },
         {
