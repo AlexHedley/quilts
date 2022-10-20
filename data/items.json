@@ -167,6 +167,19 @@
         },
         {
             "id": 0,
+            "name": "Snowman Hall of Fame",
+            "message": "Made for Jonathan Hedley for\nChristmas 1998\nWith lots of love from Auntie Gail\nAuntie Lin Stevie & Cassie\nxxxxx",
+            "date": "1998-12-25",
+            "for": "Jonathan",
+            "description": "",
+            "images":
+                {
+                    "front": "images/SnowmanHallofFame_J.jpeg",
+                    "back": "images/SnowmanHallofFame_J_Back.jpeg"
+                }
+        },
+        {
+            "id": 0,
             "name": "Definitely NOT The Millenium Quilt 'Yellow'",
             "message": "Made for the 13th Birthday of Alexander Hedley 8th December 1999\nGiven with love by Auntie Gail, Auntie Lin & Stevie\nxxxxx\nG.B.1999",
             "date": "1999-12-08",
@@ -239,8 +252,8 @@
             "description": "",
             "images":
                 {
-                    "front": "images/Mairi_M.jpeg",
-                    "back": "images/Mairi_M_Back.jpeg"
+                    "front": "images/Mairi.jpeg",
+                    "back": "images/Mairi_Back.jpeg"
                 }
         },
         {
